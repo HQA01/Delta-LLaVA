@@ -1,5 +1,4 @@
 # Delta-LLaVA
-# Delta-LLaVA
 
 Official project page for **Decoding the Delta: Unifying Remote Sensing Change Detection and Understanding with Multimodal Large Language Models**, accepted at **ACM Multimedia 2026 (ACM MM 2026)**.
 
